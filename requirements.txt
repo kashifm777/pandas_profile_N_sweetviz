@@ -1,0 +1,7 @@
+streamlit
+pandas
+codecs
+pandas_profiling
+streamlit.components
+streamlit_pandas_profiling
+sweetviz
